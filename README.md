@@ -51,3 +51,10 @@ adega-natural/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/adega-naturebaV1.git
+
+   👨‍💻 Autor
+Ricardo Cavalcante - RC Dev
+Desenvolvido com apoio técnico para fins comerciais e educacionais.
+
+📌 Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para utilizar e adaptar.
