@@ -1,7 +1,4 @@
-# Criar um arquivo README.md com o conteúdo fornecido
-
-readme_content = """
-# 🍷 Adega Natureba - Sistema de Gerenciamento
+## 🍷 Adega Natureba - Sistema de Gerenciamento
 
 Sistema completo para gerenciamento de uma adega de bebidas naturais, idealizado para atender o negócio do empresário Pedro Coqueiro, localizado em São José dos Campos (SP).
 
